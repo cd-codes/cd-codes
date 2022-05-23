@@ -1,7 +1,7 @@
 ### Hello! Thanks for stopping by😃
 
 - 🌟 I’m currently learning HTML, CSS, JavaScript, SASS, Bootstrap, JQuery, React, and Figma
-- 🌟 I'm currently working on designing and building my portfolio website and projects
+- 🌟 I'm currently working on designing and building portfolio projects to demonstrate my skills
 - 🌟 Some of my favorite learning resources are Codecademy, freeCodeCamp, Frontend Mentor, and YouTube
 <!--
 **cd-codes/cd-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
