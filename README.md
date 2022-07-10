@@ -1,7 +1,7 @@
 ### Hello! Thanks for stopping by😃
 
-- 🌟 I'm currently working on an in-browser cold brew calculator that tells you the ratio of coffee to water for brewing cold brew based on your preferences
-- 🌟 I’m currently learning HTML, CSS, JavaScript, SASS, Bootstrap, React, and Figma
+- 🌟 My lastest project is a cold brew calculator that tell you how much water and coffee grounds to use based on your preferences
+- 🌟 I’m currently learning HTML, CSS, JavaScript, React, Node.js, and Python
 - 🌟 I'm also working on designing and building portfolio projects to demonstrate my skills
 - 🌟 Some of my favorite learning resources are Codecademy, freeCodeCamp, and YouTube
 <!--
