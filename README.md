@@ -2,7 +2,6 @@
 
 - 🌟 My lastest project is a cold brew calculator that tell you how much water and coffee grounds to use based on your preferences
 - 🌟 I’m currently learning HTML, CSS, JavaScript, React, Node.js, and Python
-- 🌟 I'm also working on designing and building portfolio projects to demonstrate my skills
 - 🌟 Some of my favorite learning resources are Codecademy, freeCodeCamp, and YouTube
 <!--
 **cd-codes/cd-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
